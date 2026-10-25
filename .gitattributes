@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.cast text eol=lf
+# An empty string in stylish output retains the space after the colon.
+testdata/fixture/expected.stylish whitespace=-blank-at-eol
